@@ -12,11 +12,11 @@
 
 ###
 
-<p align="left">I'm a passionate <b>Software Engineering</b> student who is always looking for ways to improve and grow. <br><br>Currently, I'm diving into various technologies and tools to expand my knowledge and gain real-world experience.</p>
+<p align="left">I'm a passionate <strong>Software Engineering</strong> student who is always looking for ways to improve and grow. <br><br>Currently, I'm diving into various technologies and tools to expand my knowledge and gain real-world experience.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
