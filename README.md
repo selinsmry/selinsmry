@@ -25,10 +25,3 @@ If you'd like to check out my projects, please click the button below:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="height:35px; margin-right:15px;" />
 </p>
 
-
-<h3 align="left">My Stats :</h3>
-
-<div align="left" style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=selinsmry&theme=dracula&hide_border=true" height="50" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selinsmry&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" />
-</div>
