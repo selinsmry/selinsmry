@@ -8,7 +8,7 @@ Currently, I'm diving into various technologies and tools to expand my knowledge
 
 If you'd like to check out my projects, please click the button below:
 
-[![Projects](https://img.shields.io/badge/My_Projects-FFB8E0?style=for-the-badge&labelColor=FFB8E0&color=FFB8E0)](https://github.com/selinsmry?tab=repositories)
+[![Repositories](https://img.shields.io/badge/My_Repositories-FFB8E0?style=for-the-badge&labelColor=FFB8E0&color=FFB8E0)](https://github.com/selinsmry?tab=repositories)
 
 
 <h2 align="left">Language and Tools</h2>
