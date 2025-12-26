@@ -6,7 +6,7 @@
 I'm a passionate **Software Engineering** student who is always looking for ways to improve and grow.  
 Currently, I'm diving into various technologies and tools to expand my knowledge and gain real-world experience.  
 
-# If you'd like to check out my projects, please click the button below:
+### If you'd like to check out my projects, please click the button below:
 
 [![Repositories](https://img.shields.io/badge/My_Repositories-FFB8E0?style=for-the-badge&labelColor=FFB8E0&color=FFB8E0)](https://github.com/selinsmry?tab=repositories)
 
